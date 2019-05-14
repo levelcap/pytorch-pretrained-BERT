@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# Dave!
 
 import argparse
 import logging
